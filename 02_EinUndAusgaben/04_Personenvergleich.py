@@ -12,7 +12,7 @@
 nummer = 1
 #
 p1Vorname  = input("Gib den Vornamen der " + str(nummer) + ". Person ein: ")
-p1Nachname = input("gin den Nachnamen der " + str(nummer) + ". Person ein: ") 
+p1Nachname = input("Gib den Nachnamen der " + str(nummer) + ". Person ein: ") 
 p1Alter    = int(input("Gib das Geburtsjahr von " + p1Vorname + " " + p1Nachname + " ein: "))
 #
 # Wir lesen die Daten der zweiten Person ein
